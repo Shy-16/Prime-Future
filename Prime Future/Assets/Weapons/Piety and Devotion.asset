@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aff50cb9cdc68a4fb09e5ab27cabcd5, type: 3}
+  m_Name: Piety and Devotion
+  m_EditorClassIdentifier: 
+  name: Piety and Devotion
+  rarity: 2
+  level: 96
+  weaponPrefab: {fileID: 1294672646082164, guid: 8d43e76b346f2f8448846e9211629d15, type: 3}
+  weaponIcon: {fileID: 21300000, guid: 73f3f68addd17d74b92bfdf9e6254286, type: 3}
+  scale: {x: 2, y: 2, z: 2}
+  rotation: {x: 0, y: 0, z: 0}
+  damage: 15
+  range: 8
+  handling: 30
+  accuracy: 40
+  fireRate: 65
+  reloadDuration: 1.15
+  magazineSize: 4
+  maxReserves: 36
+  bloomRate: 0.5
+  bloomRecovRate: 0.2
+  maxBloom: 3.5
+  fallOffResistance: 0.825
+  fallOffSharpness: 2.5
+  price: 8560
+  flavorText: '"There isn''t a problem in this world I have encountered that Piety
+    and Devotion couldn''t solve. I worship at the church of the scattergun. I am
+    its evangelist and the
+
+    unmaker of its nonbelievers."'
+  firePattern: 3
+  barrelOffset: {x: 0, y: 0, z: 0}
+  muzzleFlash: {fileID: 195376, guid: 346f3bf3686d682498113714ee132099, type: 3}
+  impactEffect: {fileID: 195742, guid: c83fb3ef04bb383408bb2064b89690b2, type: 3}
+  shootSound: {fileID: 8300000, guid: bf8736e9d0a795647b8281f41e2f2c15, type: 3}

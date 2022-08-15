@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aff50cb9cdc68a4fb09e5ab27cabcd5, type: 3}
+  m_Name: Tolling Bell
+  m_EditorClassIdentifier: 
+  name: Tolling Bell
+  rarity: 0
+  level: 30
+  weaponPrefab: {fileID: 1671029925390012, guid: 119551172e2002344983c075ab97ef79, type: 3}
+  weaponIcon: {fileID: 21300000, guid: 9f498366a51c27947a487cfff931168e, type: 3}
+  scale: {x: 1.5, y: 1.5, z: 1.5}
+  rotation: {x: 0, y: 0, z: 0}
+  damage: 11
+  range: 30
+  handling: 52
+  accuracy: 80
+  fireRate: 600
+  reloadDuration: 0.8
+  magazineSize: 40
+  maxReserves: 360
+  bloomRate: 0.25
+  bloomRecovRate: 2.8
+  maxBloom: 2
+  fallOffResistance: 0.87
+  fallOffSharpness: 10
+  price: 2050
+  flavorText: '"They say that in its hay day, the sound of the Tolling Bell cut through
+    all the noise of the battlefield. It inspired confidence in the troops marching
+    behind it and struck fear
+
+    in the hearts of those stood in front of it."'
+  firePattern: 1
+  barrelOffset: {x: 0, y: 0.16, z: 0.68}
+  muzzleFlash: {fileID: 195376, guid: 346f3bf3686d682498113714ee132099, type: 3}
+  impactEffect: {fileID: 195742, guid: c83fb3ef04bb383408bb2064b89690b2, type: 3}
+  shootSound: {fileID: 8300000, guid: f3b6d48fe4a50be42919e633700f5cec, type: 3}

@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 3b4462f0b9369f64cab4dcb7d92e1516
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weapon: {instanceID: 0}
+  - inspectionCanvas: {instanceID: 0}
+  - weaponName: {instanceID: 0}
+  - itemLevel: {instanceID: 0}
+  - itemRarity: {instanceID: 0}
+  - damageText: {instanceID: 0}
+  - rangeText: {instanceID: 0}
+  - handlingText: {instanceID: 0}
+  - accuracyText: {instanceID: 0}
+  - rateOfFireText: {instanceID: 0}
+  - reloadSpeedText: {instanceID: 0}
+  - magazineText: {instanceID: 0}
+  - itemPrice: {instanceID: 0}
+  - flavorText: {instanceID: 0}
+  - upArrow: {fileID: 21300000, guid: 6a16227bad7bc414793d5e77587744f8, type: 3}
+  - downArrow: {fileID: 21300000, guid: 3ce16e5b1981bd7458b07a8790901906, type: 3}
+  - dash: {fileID: 21300000, guid: f21e9c0af295bc24da6175342dba71dd, type: 3}
+  - damageComparison: {instanceID: 0}
+  - rangeComparison: {instanceID: 0}
+  - handlingComparison: {instanceID: 0}
+  - accuracyComparison: {instanceID: 0}
+  - rateOfFireComparison: {instanceID: 0}
+  - reloadComparison: {instanceID: 0}
+  - magazineSizeComparison: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

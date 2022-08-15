@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aff50cb9cdc68a4fb09e5ab27cabcd5, type: 3}
+  m_Name: Due Process
+  m_EditorClassIdentifier: 
+  name: Due Process
+  rarity: 1
+  level: 80
+  weaponPrefab: {fileID: 1374600452982646, guid: 57bf5071e0a1c8947b8918a8f96184a6, type: 3}
+  weaponIcon: {fileID: 21300000, guid: bcc16359504bbdb41ab8856b695a0bdf, type: 3}
+  scale: {x: 2, y: 2, z: 2}
+  rotation: {x: 0, y: 0, z: 0}
+  damage: 40
+  range: 15
+  handling: 78
+  accuracy: 80
+  fireRate: 140
+  reloadDuration: 1
+  magazineSize: 12
+  maxReserves: 108
+  bloomRate: 0.295
+  bloomRecovRate: 0.2
+  maxBloom: 3.5
+  fallOffResistance: 0.75
+  fallOffSharpness: 7
+  price: 6300
+  flavorText: "\"I endeavour to always be on the right side of the law. Out here,
+    we have our own form of governance and due\nprocess\"\n\u2014 Sheriff Maxwell"
+  firePattern: 1
+  barrelOffset: {x: 0.126, y: 0, z: 0.274}
+  muzzleFlash: {fileID: 195376, guid: 346f3bf3686d682498113714ee132099, type: 3}
+  impactEffect: {fileID: 195742, guid: c83fb3ef04bb383408bb2064b89690b2, type: 3}
+  shootSound: {fileID: 8300000, guid: c922c34f559ead440a273a13a924cfc7, type: 3}
